@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ボクらの夏休み戦争",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-10T13:52:24.675406Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクらの夏休み戦争",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_ボクらの夏休み戦争_Chevon.txt"
+    }
+  ]
+}
